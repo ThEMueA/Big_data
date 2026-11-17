@@ -1,0 +1,11 @@
+Faker
+NumPy
+Pandas
+Matplotlib
+Seaborn
+SciPy
+Scikit-learn
+NLTK
+TensorFlow
+Plotly
+Streamlit
