@@ -6,7 +6,7 @@ import sys
 # ============================================================
 # 1. КОНФИГУРАЦИЯ – API ключът е директно в кода (без .env)
 # ============================================================
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "secret-key-goes-here"
 
 MODEL = "deepseek/deepseek-v3.2-exp"
 
